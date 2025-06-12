@@ -23,4 +23,3 @@ A Spring Boot based Health Care Management System with modules for patient regis
 Nishok Kumar S
 📧 nishokjavadeveloper@gmail.com
 🔗 www.linkedin.com/in/nishok-kumar-b44857231
-💼 Portfolio (Optional)
