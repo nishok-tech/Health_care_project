@@ -1,4 +1,4 @@
-![Patient login](https://github.com/user-attachments/assets/c6845d33-d97d-47c4-92df-2090558c3bfe)![1](https://github.com/user-attachments/assets/34142bee-0b3d-458a-920a-13b18edfe718)# Health_care_project
+# Health_care_project
 A Spring Boot based Health Care Management System with modules for patient registration, appointment scheduling, and admin module
 
 ## 🚀 Features
